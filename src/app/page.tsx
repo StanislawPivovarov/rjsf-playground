@@ -40,7 +40,6 @@ export default function Home() {
   const initialUiSchema = {
     "firstName": {
       "ui:autofocus": true,
-      "ui:emptyValue": "Chuck",
       "ui:placeholder": "Enter your first name"
     },
     "lastName": {
